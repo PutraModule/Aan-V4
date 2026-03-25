@@ -10,15 +10,15 @@
       "options": [
         {
           "text": "p",
+          "votes": 0,
+          "voters": []
+        },
+        {
+          "text": "p",
           "votes": 1,
           "voters": [
             1774415090442
           ]
-        },
-        {
-          "text": "p",
-          "votes": 0,
-          "voters": []
         }
       ]
     }
