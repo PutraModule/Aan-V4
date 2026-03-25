@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "id": "msg_1774415391768",
+    "from": 1774415331507,
+    "time": 1774415391768,
+    "type": "poll",
+    "content": "",
+    "poll": {
+      "question": "tea",
+      "options": [
+        {
+          "text": "p",
+          "votes": 0,
+          "voters": []
+        },
+        {
+          "text": "p",
+          "votes": 0,
+          "voters": []
+        }
+      ]
+    }
+  }
+]
